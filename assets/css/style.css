@@ -1,0 +1,17 @@
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+h2 {
+  font-size: 30px;
+  color: red;
+  border-bottom: 2px solid red;
+}
+h3 {
+  font-size: 28px;
+  color: cornflowerblue;
+}
